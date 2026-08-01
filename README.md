@@ -1,16 +1,31 @@
-## Hi there 👋
+# Yevgenii Dzidziguri — Product Manager
 
-<!--
-**ZhenyaD/zhenyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager with 3 years of PM experience backed by 10 years in 
+Business Analysis. AI-native PM using Claude, Cursor, and agentic 
+workflows. 
 
-Here are some ideas to get you started:
+## Public PM work — GameDAO (Web3 Fundraising Protocol)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Product Manager, May 2022 – Jan 2023. Specced the rewards module 
+end-to-end across 3 layers.
+
+Backlog was authored under my previous GitHub handle **@EDzidziguri** 
+(created with a corporate email I no longer have access to). All 
+issues remain publicly visible:
+
+### 28+ user stories authored:
+
+**Frontend + Backend (React/Node):**  
+https://github.com/gamedaoco/gamedao-haiku/issues?q=author%3AEDzidziguri
+
+**Substrate blockchain pallets (Rust):**  
+https://github.com/gamedaoco/gamedao-protocol/issues?q=author%3AEDzidziguri
+
+**UX specifications:**  
+https://github.com/gamedaoco/gamedao-refinement/issues?q=author%3AEDzidziguri
+
+## Portfolio
+https://zhenyad.github.io/portfolio/
+
+## LinkedIn
+https://www.linkedin.com/in/dzidziguri/
