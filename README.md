@@ -6,8 +6,8 @@ Operating as an AI-native PM — using Claude, Cursor, and agentic workflows to 
 
 ## Public PM work — GameDAO (Web3 Fundraising Protocol)
 
-Product Manager, May 2022 – Jan 2023. Specced the rewards module 
-end-to-end across 3 layers.
+Product Manager, May 2022 – Jan 2023. 
+Designed the rewards module end-to-end — data model, 9+ user flows, and specs across frontend, backend, and Substrate chain pallets. Contributed to decentralized identity (KILT Protocol / SocialKYC integration), crowdfunding flows, and DAO governance features.
 
 Backlog was authored under my previous GitHub handle **@EDzidziguri** 
 (created with a corporate email I no longer have access to). All 
