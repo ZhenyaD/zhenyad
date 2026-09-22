@@ -4,6 +4,14 @@ Product Manager with 3 years of PM experience backed by 10 years in Business Ana
 Cross-industry: eCommerce, life-science, Web3, iGaming. 
 Operating as an AI-native PM — using Claude, Cursor, and agentic workflows to accelerate delivery.
 
+## AI-native PM workflow
+
+Custom Cursor workspace I built to automate BA artifacts and UI flows — 
+BA agent generating specs to Confluence/Jira, Designer agent generating 
+BPMN-style UI flows to Figma, all following BABOK-inspired rules.
+
+→ [github.com/ZhenyaD/pm-ai-agents](https://github.com/ZhenyaD/pm-ai-agents)
+
 ## Public PM work — GameDAO (Web3 Fundraising Protocol)
 
 Product Manager, May 2022 – Jan 2023. 
