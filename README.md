@@ -18,7 +18,7 @@ Custom Cursor workspace I built to automate BA artifacts and UI flows:
 
 Product Manager, May 2022 – Jan 2023:
 - Architected the rewards module across frontend, backend, and Substrate chain pallets. 
-- Contributed to decentralized identity (KILT Protocol / SocialKYC integration), crowdfunding flows, and DAO governance features.
+- Contributed to decentralized identity (KILT Protocol / SocialKYC integration), crowdfunding, DAO governance features.
 
 28+ user stories authored:
 - Frontend + Backend (React/Node): https://github.com/gamedaoco/gamedao-haiku/issues?q=author%3AEDzidziguri
